@@ -4,7 +4,6 @@ My name is Eli, and I'm currently studying information technology and programmin
 
 
 
-
 <!--
 **NorthernMichigan/NorthernMichigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
