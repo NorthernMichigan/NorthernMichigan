@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello 👋
+
+My name is Eli, and I'm currently studying information technology and programming online after switching from a graduate career path in the humanities. I hope to continue learning about how advanced computing systems are created and used in scientific research, and learn about the intersections between computer science, math, and artistic represention!
+
+
+
 
 <!--
 **NorthernMichigan/NorthernMichigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
